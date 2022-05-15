@@ -1,0 +1,20 @@
+#ifndef ENEMY_H
+#define ENEMY_H
+
+#include <string>
+
+class Enemy
+{
+    public:
+        Enemy();
+        virtual void setEnemyHealth()=0;
+        
+    protected:
+        string enemyName;
+        int enemyHealth;
+        int enemyArmor;
+        int enemyDamage;
+    private:
+};
+
+#endif // ENEMY_H

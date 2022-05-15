@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1423416471 source:d:\workstation\c++\simplegame\game\textdungeons\enemy.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"Enemy.h"
+	"Level.h"
+	"Level1.h"
+	"Menu.h"
+	"Player.h"
+
+1423421943 d:\workstation\c++\simplegame\game\textdungeons\enemy.h
+	<string>
+	"Goblin.h"
+
+1423420173 d:\workstation\c++\simplegame\game\textdungeons\level.h
+
+1423420900 d:\workstation\c++\simplegame\game\textdungeons\player.h
+	<string>
+
+1424366803 source:d:\workstation\c++\simplegame\game\textdungeons\level.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"Level.h"
+	"Level1.h"
+	"Menu.h"
+	"Player.h"
+	"Goblin.h"
+
+1424631252 source:d:\workstation\c++\simplegame\game\textdungeons\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"Level1.h"
+	"Menu.h"
+	"Player.h"
+	"Goblin.h"
+	"Level2.h"
+
+1424631259 source:d:\workstation\c++\simplegame\game\textdungeons\player.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"Level1.h"
+	"Menu.h"
+	"Player.h"
+	"Goblin.h"
+	"Level2.h"
+
+1424631264 source:d:\workstation\c++\simplegame\game\textdungeons\menu.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"Level1.h"
+	"Menu.h"
+	"Player.h"
+	"Goblin.h"
+
+1424631017 d:\workstation\c++\simplegame\game\textdungeons\menu.h
+	<string>
+	"Player.h"
+	"Level1.h"
+
+1431872846 source:d:\workstation\c++\simplegame\game\textdungeons\level1.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	<string>
+	"Level1.h"
+	"Menu.h"
+	"Player.h"
+	"Goblin.h"
+	"Level2.h"
+
+1424631593 d:\workstation\c++\simplegame\game\textdungeons\level1.h
+	"Player.h"
+	"Goblin.h"
+	"Level2.h"
+
+1424490105 d:\workstation\c++\simplegame\game\textdungeons\goblin.h
+	<string>
+
+1424631143 source:d:\workstation\c++\simplegame\game\textdungeons\goblin.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Level.h"
+	"Level1.h"
+	"Menu.h"
+	"Player.h"
+	"Goblin.h"
+	"Level2.h"
+
+1424631239 source:d:\workstation\c++\simplegame\game\textdungeons\level2.cpp
+	"Level2.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<stdlib.h>
+	<string>
+	"Level1.h"
+	"Menu.h"
+	"Player.h"
+	"Goblin.h"
+	"Level2.h"
+
+1424630992 d:\workstation\c++\simplegame\game\textdungeons\level2.h
+	"Player.h"
+	"Goblin.h"
+	"Level1.h"
+

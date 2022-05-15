@@ -1,0 +1,26 @@
+#ifndef PLAYER_H
+#define PLAYER_H
+
+#include <string>
+using namespace std;
+
+class Player
+{
+    public:
+        Player(string n, int h, int a, int d);
+        string getName();
+        void getHealth();
+        void getArmor();
+        void getDamage();
+
+    protected:
+        int playerHealth;
+        int playerArmor;
+        int playerDamage;
+
+    private:
+        string playerName;
+
+};
+
+#endif // PLAYER_H

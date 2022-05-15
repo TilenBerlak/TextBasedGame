@@ -1,0 +1,27 @@
+#ifndef GOBLIN_H
+#define GOBLIN_H
+
+#include <string>
+using namespace std;
+
+
+class Goblin
+{
+    public:
+        Goblin();
+        void setGoblinHealth();
+
+        void setGoblinDamage();
+
+        string getName();
+        int 
+        int getHealth();
+    protected:
+
+    private:
+        string goblinName;
+        int goblinHealth;
+        int goblinDamage;
+};
+
+#endif // GOBLIN_H
